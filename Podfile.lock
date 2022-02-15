@@ -1,0 +1,28 @@
+PODS:
+  - PlainPing (0.5.2)
+  - Starscream (4.0.4)
+  - SwiftGifOrigin (1.7.0)
+  - SwiftLint (0.46.2)
+
+DEPENDENCIES:
+  - PlainPing
+  - Starscream (~> 4.0.0)
+  - SwiftGifOrigin (~> 1.7.0)
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - PlainPing
+    - Starscream
+    - SwiftGifOrigin
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  PlainPing: 41fb93099deb2f5ddbc534a934eb3bf07522d437
+  Starscream: 5178aed56b316f13fa3bc55694e583d35dd414d9
+  SwiftGifOrigin: fbd6cf37afcfcf97a5c3db996ddc0492e5c5c145
+  SwiftLint: 6bc52a21f0fd44cab9aa2dc8e534fb9f5e3ec507
+
+PODFILE CHECKSUM: 6b0de9c4f620eb1f269f3919ce54b46939744e4a
+
+COCOAPODS: 1.11.2
